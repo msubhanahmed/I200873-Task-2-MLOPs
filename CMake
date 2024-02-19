@@ -1,7 +1,5 @@
-# Install target
 Install:
     pip3 install -r requirements.txt
 
-# Test target
 Test:
     pytest test.py
